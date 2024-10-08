@@ -8,6 +8,3 @@ variable name {
   description = "description"
 }
 
-variable "prod" {
-    
-}
