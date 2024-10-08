@@ -7,3 +7,7 @@ variable name {
   default     = ""
   description = "description"
 }
+
+variable "prod" {
+    
+}
